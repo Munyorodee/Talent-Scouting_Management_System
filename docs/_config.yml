@@ -20,10 +20,12 @@
 
 title: Talent-Recruitment Site
 email: munyoro.md95@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >-It is disheartening to note that Zimbabwe is endowed with a mass of  redundant  and  unidentified  sport-talented  young  people  living  in  marginalized  poor  rural areas as well as high density suburbs popularly referred to as ghettos.
+Most of these idle talented young people in rural areas remain unidentified to participate in national sporting activities due to a number of reasons. These include; lack of proper sporting facilities, dedicated coaches in each particular sport and lack of properly defined talent identification and development program 
+While the Ministry of Primary and Secondary Education has already existing talent scouting structures in schools which is commendable, they have their own flaws.
+.  It is at national level where the best participants/ players are handpicked for trials at various Sports Clubs thereby leaving the majority out in the rural communities.
+Best players in teams that will lose in zonal, district and Provincial level are not identified and recognized. # this means to ignore newlines until "baseurl:"
+ 
 baseurl: "/Talent-Scouting_Management_System/" # the subpath of your site, e.g. /blog
 url: "https://munyorodee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Munyoro
