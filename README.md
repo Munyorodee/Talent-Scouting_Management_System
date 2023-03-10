@@ -1,7 +1,7 @@
 # Talent-Scouting_Management_System
 ![22-220999_web-developer-wallpaper-web-development (1)](https://user-images.githubusercontent.com/105204048/222449413-4ec5e689-a3c5-4f37-88f3-4696d069894b.jpg)
 
-# Job Odyssey Holberton
+# TalentScoUt Zw ALX
 
 <a href="https://munyorodee.github.io/Talent-Scouting_Management_System/">
     <img src="https://qkpage1.co/p/https_munyorodee_github_io_Talent-Scouting_Management_System_">
@@ -47,10 +47,9 @@ Server / Deployment
 To access it, fork the repo and deploy it locally. It is not yet available live.
 
 ## Screenshots
+![Screenshot (5)](https://user-images.githubusercontent.com/105204048/224257740-594e765d-c615-4253-8ce2-ccf984561023.png)">
 
-<img width=50% src="![Screenshot (5)](https://user-images.githubusercontent.com/105204048/224257740-594e765d-c615-4253-8ce2-ccf984561023.png)">
-
-<img width=50% src="![Screenshot (6)](https://user-images.githubusercontent.com/105204048/224257851-2d787747-38dc-4e92-88d2-f51e2e72d709.png)">
+img width=50% src="![Screenshot (6)](https://user-images.githubusercontent.com/105204048/224257851-2d787747-38dc-4e92-88d2-f51e2e72d709.png)">
 
 ## Features
 
