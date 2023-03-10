@@ -26,7 +26,7 @@ To achieve this goal, the system will allow all interested Zimbabweans to upload
 - [Acknowledgments](#acknowledgements)
 
 ## The Story
-
+This app was developed after we noted that many talented people in Zimbabwe end up not getting into prfessional football as a result of various challenges. These include economic hardships as well as marginalization. In response, we developed the web app to cater for such people especially those in rural areas and ghettos.
 
 Front End
 * ‎Using PHP · ‎PHP & Blade · ‎Livewire · ‎Using Vue / React
@@ -52,7 +52,6 @@ To access it, fork the repo and deploy it locally. It is not yet available live.
 img width=50% src="![Screenshot (6)](https://user-images.githubusercontent.com/105204048/224257851-2d787747-38dc-4e92-88d2-f51e2e72d709.png)">
 
 ## Features
-
 * In-app Direct messaging
 * Like/Unlike/Dislike
 * Achievements and Player Statistics
@@ -66,14 +65,10 @@ img width=50% src="![Screenshot (6)](https://user-images.githubusercontent.com/1
 * [MySQL](https://mysql.com) - Relational Database Management System
 * [React](https://reactjs.org) - Javascript Library
 
-
 ## API
-
 The API can be found in routes/api.php 
 
-
 ## Future
-
 There are plenty of features that we would love to implement into TalentScout Zw.
 Adding more APIs (which mostly require approval) 
 Work is also being put into making
@@ -95,7 +90,6 @@ Munyorodee is an aspiring backend software engineer, working on the system desig
 Rati is a front-end software engineer who enjoys both backend work and frontend work, taking charge of the design and other portions of TalentScout Zw while still being heavily involved in the backend database and API work as well. 
     
 If you would like to contact [Munyorodee](https://github.com/Munyorodee/) or [Rati](https://github.com/Kate-Rati) about any opportunities, feel free to reach out!
-
 
 ## Acknowledgements
 * [ALX Africa https://www.alxafrica.com/) (Staff and Students)
